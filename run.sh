@@ -16,6 +16,9 @@ else
     echo "Done..."
 fi
 
+git clone https://github.com/google/gumbo-parser.git
+git clone https://github.com/curl/curl.git
+
 #mv ./curl2 ./curl
 #mv ./gumbo-parser2 ./gumbo-parser
 
